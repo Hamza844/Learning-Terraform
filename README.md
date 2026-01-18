@@ -19,3 +19,14 @@ sudo ./aws/install
 I give it admin acess but its not for production because production is more secure enviorment....
 
 <img width="1782" height="462" alt="image" src="https://github.com/user-attachments/assets/327484cf-3e54-40b2-98ef-39f052e80e33" />
+
+### Lets Configure the  Aws user to ec2 :
+
+```
+aws configure
+```
+after this command paste the Access key and Secret access key
+### Read this Docs For learning terraform:
+```
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+```
